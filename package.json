@@ -1,5 +1,5 @@
 {
-	"name": "swift",
+	"name": "engli-gtts",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
@@ -9,6 +9,7 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"gtts": "^0.2.1",
 		"@ricky0123/vad-react": "^0.0.24",
 		"@ricky0123/vad-web": "^0.0.18",
 		"@vercel/analytics": "^1.2.2",
